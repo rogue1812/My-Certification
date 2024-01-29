@@ -20,6 +20,7 @@
 
 
 ## SQL for Data Science
+<img width="401" alt="image" src="https://github.com/rogue1812/My-Certification/assets/83130519/0b5fbb90-20e0-4506-a46a-53cc0665d282">
 
 
 ## The Power of Statistics
